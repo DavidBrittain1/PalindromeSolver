@@ -1,0 +1,1 @@
+Enter in a sentence or word, the program will analyse and tell you if it is a palindrome.
